@@ -2,10 +2,9 @@
 <div class="container-fluid">
     <div class="row">
         <div class="col-md-offset-2 col-md-8">
-<div class="jumbotron">
-    <h1 runat="server" id="JumbotronH1">Jumbotron heading</h1>
-    
-</div>
+            <div class="jumbotron">
+                <h1 runat="server" id="JumbotronH1">Jumbotron heading</h1>
+            </div>
         </div>
     </div>
 </div>

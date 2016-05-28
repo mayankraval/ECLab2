@@ -11,5 +11,14 @@ namespace WebApplication1 {
     
     
     public partial class WebForm1 {
+        
+        /// <summary>
+        /// Jumbotron control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::WebApplication1.User_Controls.Jumbotron Jumbotron;
     }
 }
