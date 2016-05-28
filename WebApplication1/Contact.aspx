@@ -15,7 +15,7 @@
                         <address>
                             <strong>Mayank Raval</strong><br />
                             1 Georgian Drive,
-                    Barrie ON M4Y 6Z9
+                            Barrie ON M4Y 6Z9 <br />
                     <abbr title="Phone">Tel :</abbr>
                             (705) 555-2222
                         </address>
